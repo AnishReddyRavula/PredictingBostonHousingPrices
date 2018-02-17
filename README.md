@@ -1,1 +1,1 @@
-# PredictingBostonHousingPrices
+# Predicting Boston Housing Prices
